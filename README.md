@@ -16,3 +16,5 @@ PCA - PCA0, PCA1…
 Model from HuggingFace (AI) / XGB - best hyperparameters
 Testing and Result (Calplot)
 ```
+Southwest Airline Dataset:
+https://kaggle.com/datasets/89f210381b68388365e2a2c95afe2ab068879299fafe013a35432ead394b4cc9
