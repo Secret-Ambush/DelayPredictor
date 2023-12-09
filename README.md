@@ -2,7 +2,7 @@
 Analysis (https://www.kaggle.com/code/rishabhagrawalnitw/flight-data)
 
 
-Predictive Model (Train it on 2018-2020, Test on 2021)
+Predictive Model (Train it on 2018-2021, Test on 2022)
 TA: ArrDelay - Regression
 
 Tasks to be done:
