@@ -13,7 +13,7 @@ Time - GMT conversion
 Standardisation, Encoding
 Class Imbalance
 PCA - PCA0, PCA1…
-Model from HuggingFace (AI) / XGB - best hyperparameters
+Model: XGB - best hyperparameters
 Testing and Result (Calplot)
 ```
 Airline datasets:
